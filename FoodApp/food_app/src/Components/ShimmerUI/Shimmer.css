@@ -1,0 +1,13 @@
+.Shimmer_container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cards{
+    border: 1px solid lightgrey;
+    height: 400px;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background: rgb(228, 226, 226);
+}

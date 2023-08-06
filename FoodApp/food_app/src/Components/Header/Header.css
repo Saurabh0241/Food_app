@@ -1,0 +1,31 @@
+/* .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 100px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.nav-item > ul{
+    display: flex;
+    font-size: 24px;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.nav-item > ul > li{
+    margin: 20px;
+    padding: 20px;
+
+}
+.login_btn{
+    padding:5px 20px;
+}
+.Link{
+    text-decoration: none;
+    color: black;
+} */
